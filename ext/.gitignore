@@ -1,0 +1,7 @@
+#===== Gradle ignore =========
+/.gradle/
+/build/
+/out/
+#===== Idea ignore ===========
+/.idea/
+*.iml
